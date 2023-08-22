@@ -1,0 +1,34 @@
+.table__caption {
+    caption-side: top;
+    text-align: center;
+    padding: 15px;
+    font-weight: 700;
+}
+
+.table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+
+.table__cell {
+    padding: 5px;
+    border: 2px solid #eee;
+    vertical-align: middle;
+}
+
+.table__cell--header {
+    font-weight: normal;
+    background-color: #00765b;
+    color: floralwhite;
+}
+
+.table__row:nth-child(odd) {
+    background-color: #bababa;
+}
+
+.table__row:hover,
+.table__cell--header:hover {
+    background-color: hsla(166, 100%, 37%, 0.251);
+}

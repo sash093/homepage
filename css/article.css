@@ -1,0 +1,15 @@
+.article {
+    border-radius: 35px;
+    padding: 20px;
+    margin: 30px;
+    border: 0.5px dotted #00765b;
+    box-shadow: 2px 2px 8px -3px #00765b;
+}
+
+.article--highlighted .article__header {
+    text-decoration: underline;
+}
+
+.article--highlighted {
+    background-color: hsla(166, 100%, 77%, 0.251);
+}

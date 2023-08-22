@@ -1,0 +1,43 @@
+.header__heading {
+    background: #00765b;
+    text-align: center;
+    color: white;
+}
+
+.header__buttonContainer {
+    text-align: center;
+}
+
+.header__button {
+    box-shadow: 2px 2px 8px #ccc;
+    background: #383838de;
+    color: white;
+    border-radius: 15px;
+    max-width: 180px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    border: 1px #383838de solid;
+}
+
+.header__button--light {
+    background: white;
+    color: #383838de;
+    border-color: white;
+}
+
+.header__button:hover {
+    background: #00765b;
+    border-color: #00765b;
+}
+
+.header__button--light:hover {
+    background: #00765b;
+    color: white;
+    border-color: #00765b;
+}
+.header__button:active,
+.header__button--light:active {
+    background: #e30400;
+}

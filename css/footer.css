@@ -1,0 +1,23 @@
+.footer {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.footer__link {
+    color: black;
+    text-decoration: none;
+}
+
+.footer__link:visited {
+    color: #00765b;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
+    color: #00765b;
+}
+
+.footer__link:active {
+    text-decoration: underline;
+    color: #e30400;
+}

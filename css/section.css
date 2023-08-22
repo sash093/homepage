@@ -1,0 +1,17 @@
+.section {
+    text-align: center;
+    margin: 30px auto;
+}
+
+.section__paragraph {
+    font-weight: 700;
+}
+
+.section__paragraph--emphasis {
+    font-size: 20px;
+}
+
+.section__image {
+    border-radius: 30px;
+    box-shadow: 2px 2px 8px #ccc;
+}

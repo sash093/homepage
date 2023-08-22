@@ -1,0 +1,25 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 0px 20px;
+    overflow-x: auto;
+    line-height: 1.5;
+    background: white;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+}
+
+.darkBackgroundWrapper {
+    background: #797979de;
+    color: white;
+}
