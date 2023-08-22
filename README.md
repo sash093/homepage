@@ -1,9 +1,9 @@
-# Aleksandra Przygoda - pierwsza strona
+# Aleksandra Przygoda - first project
 
 ## Demo
 
 https://sash093.github.io/homepage/
 
-## Opis
+## Description
 
-Pierwsza strona www po długiej przerwie po studiach i kilku innych zawodach :)
+First www website project following a long break after obtaining my IT degree & a different career path :)
